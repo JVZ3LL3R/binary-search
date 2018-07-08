@@ -1,0 +1,7 @@
+﻿  Binary.cpp
+c:\users\josev\documents\visual studio 2015\projects\binarysearch\binarysearch\binary.cpp(11): warning C4101: 'stProduto': unreferenced local variable
+c:\users\josev\documents\visual studio 2015\projects\binarysearch\binarysearch\binary.cpp(14): warning C4101: 'cWork': unreferenced local variable
+c:\users\josev\documents\visual studio 2015\projects\binarysearch\binarysearch\binary.cpp(13): warning C4101: 'fdCadastro': unreferenced local variable
+c:\users\josev\documents\visual studio 2015\projects\binarysearch\binarysearch\binary.cpp(15): warning C4101: 'cOpcao': unreferenced local variable
+  BinarySearch.vcxproj -> C:\Users\josev\documents\visual studio 2015\Projects\BinarySearch\Debug\BinarySearch.exe
+  BinarySearch.vcxproj -> C:\Users\josev\documents\visual studio 2015\Projects\BinarySearch\Debug\BinarySearch.pdb (Full PDB)
