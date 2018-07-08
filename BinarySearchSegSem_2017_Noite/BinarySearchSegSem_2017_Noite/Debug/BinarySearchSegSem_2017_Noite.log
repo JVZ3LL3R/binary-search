@@ -1,0 +1,8 @@
+﻿  Teste.cpp
+f:\fatec\estrutura de dados\binarysearchsegsem_2017_noite\binarysearchsegsem_2017_noite\teste.cpp(11): warning C4101: 'stProduto': unreferenced local variable
+f:\fatec\estrutura de dados\binarysearchsegsem_2017_noite\binarysearchsegsem_2017_noite\teste.cpp(14): warning C4101: 'cWork': unreferenced local variable
+f:\fatec\estrutura de dados\binarysearchsegsem_2017_noite\binarysearchsegsem_2017_noite\teste.cpp(13): warning C4101: 'fdCadastro': unreferenced local variable
+f:\fatec\estrutura de dados\binarysearchsegsem_2017_noite\binarysearchsegsem_2017_noite\teste.cpp(17): warning C4101: 'flgHouveTroca': unreferenced local variable
+f:\fatec\estrutura de dados\binarysearchsegsem_2017_noite\binarysearchsegsem_2017_noite\teste.cpp(15): warning C4101: 'cOpcao': unreferenced local variable
+  BinarySearchSegSem_2017_Noite.vcxproj -> F:\FATEC\Estrutura de Dados\BinarySearchSegSem_2017_Noite\Debug\BinarySearchSegSem_2017_Noite.exe
+  BinarySearchSegSem_2017_Noite.vcxproj -> F:\FATEC\Estrutura de Dados\BinarySearchSegSem_2017_Noite\Debug\BinarySearchSegSem_2017_Noite.pdb (Full PDB)
